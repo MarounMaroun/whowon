@@ -1,0 +1,142 @@
+[
+  {
+    "year": 2014,
+    "winner": "Germany",
+    "against": "Argentina",
+    "result": "0–0 (1-0 OT)",
+    "location": "Rio de Janeiro, Brazil"
+  },
+  {
+    "year": 2010,
+    "winner": "Spain",
+    "against": "Netherlands",
+    "result": "0–0 (1-0 OT)",
+    "location": "Johannesburg, South Africa"
+  },
+  {
+    "year": 2006,
+    "winner": "Italy",
+    "against": "France",
+    "result": "1–1 (5-3 PK)",
+    "location": "Berlin, Germany"
+  },
+  {
+    "year": 2002,
+    "winner": "Brazil",
+    "against": "Germany",
+    "result": "2–0",
+    "location": "Yokohama, Japan"
+  },
+  {
+    "year": 1998,
+    "winner": "France",
+    "against": "Brazil",
+    "result": "3–0",
+    "location": "Saint-Denis, France"
+  },
+  {
+    "year": 1994,
+    "winner": "Brazil",
+    "against": "Italy",
+    "result": "0-0 (3-2 PK)",
+    "location": "Pasadena (Los Angeles), California, United States"
+  },
+  {
+    "year": 1990,
+    "winner": "West Germany",
+    "against": "Argentina",
+    "result": "1-0",
+    "location": "Rome, Italy"
+  },
+  {
+    "year": 1986,
+    "winner": "Argentina",
+    "against": "West Germany",
+    "result": "3–2",
+    "location": "Mexico City, Mexico"
+  },
+  {
+    "year": 1982,
+    "winner": "Italy",
+    "against": "West Germany",
+    "result": "3-1",
+    "location": "Madrid, Spain"
+  },
+  {
+    "year": 1978,
+    "winner": "Argentina",
+    "against": "Netherlands",
+    "result": "1-1 (3-1 OT)",
+    "location": "Buenos Aires, Argentina"
+  },
+  {
+    "year": 1974,
+    "winner": "West Germany",
+    "against": "Netherlands",
+    "result": "2–1",
+    "location": "Munich, West Germany"
+  },
+  {
+    "year": 1970,
+    "winner": "Brazil",
+    "against": "Italy",
+    "result": "4–1",
+    "location": "Mexico City, Mexico"
+  },
+  {
+    "year": 1966,
+    "winner": "England",
+    "against": "West Germany",
+    "result": "2-2 (4-2 OT)",
+    "location": "London, England"
+  },
+  {
+    "year": 1962,
+    "winner": "Brazil",
+    "against": "Czechoslovakia",
+    "result": "3–1",
+    "location": "Santiago, Chile"
+  },
+  {
+    "year": 1958,
+    "winner": "Brazil",
+    "against": "Sweden",
+    "result": "5-2",
+    "location": "Solna, Sweden"
+  },
+  {
+    "year": 1954,
+    "winner": "West Germany",
+    "against": "Hungary",
+    "result": "3–2",
+    "location": "Bern, Switzerland"
+  },
+  {
+    "year": 1950,
+    "winner": "Uruguay",
+    "against": "Brazil",
+    "result": "2-1",
+    "location": "Rio de Janeiro, Brazil"
+  },
+  {
+    "year": 1938,
+    "winner": "Italy",
+    "against": "Hungary",
+    "result": "4–2",
+    "location": "Paris, France"
+  },
+  {
+    "year": 1934,
+    "winner": "Italy",
+    "against": "Czechoslovakia",
+    "result": "1-1 (2-1 OT)",
+    "location": "Rome, Italy"
+  },
+  {
+    "year": 1930,
+    "winner": "Uruguay",
+    "against": "Argentina",
+    "result": "4-2",
+    "location": "Montevideo, Uruguay"
+  }
+]
