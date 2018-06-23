@@ -1,6 +1,7 @@
 # whowon
 
-For those who forgot who won the 1990 world cup.
+For those who forgot who won the 1990 World Cup, or just curious to know
+how many times Argentina won the cup.
 
 ![whowon](.meta/whowon.gif "whowhon")
 
@@ -24,4 +25,10 @@ Simply:
 
 ```bash
 whowon -y 1990
+```
+
+Or,
+
+```bash
+whowon -c germany
 ```
