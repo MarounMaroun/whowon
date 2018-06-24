@@ -10,7 +10,7 @@ object Parser {
     * @return true if WC occurred, false otherwise.
     */
   private def isWorldCupYear(year: Int): Boolean = {
-    for (y <- Range(1934, 2018, 4)) {
+    for (y <- Range(1930, 2018, 4)) {
       if (year == y) return true
     }
     false
