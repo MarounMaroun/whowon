@@ -10,10 +10,7 @@ object Parser {
     * @return true if WC occurred, false otherwise.
     */
   private def isWorldCupYear(year: Int): Boolean = {
-    for (y <- Range(1930, 2018, 4)) {
-      if (year == y) return true
-    }
-    false
+    year % 4 == 2 && year >= 1930 && year < 2018
   }
 
   val parser: OptionParser[Config] = new scopt.OptionParser[Config]("whowon") {
