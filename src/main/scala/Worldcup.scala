@@ -30,8 +30,8 @@ object Worldcup {
       case Some(x: Match) =>
         println(
           s"Winner:    ${x.winner}\n" +
-            s"Runner Up: ${x.against}\n" +
-            s"Result:    ${x.result}"
+          s"Runner Up: ${x.against}\n" +
+          s"Result:    ${x.result}"
         )
       case None =>
         println(s"World cup was canceled on this year")
@@ -47,7 +47,7 @@ object Worldcup {
 
   /** Prints total winning years for each team. */
   private def prettyPrintTable(table: Map[String, List[Int]]): Unit = {
-    table foreach {
+    table.toSeq.sortBy(-_._2.length) foreach {
       case (team, years) =>
         println(f"$team%-10s 🏆 ${years.length} times (${years.mkString(", ")})")
     }
