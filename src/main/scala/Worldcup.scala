@@ -1,8 +1,6 @@
 import Parser._
 import Utils.getWcData
 
-case class Match(year: Int, winner: String, against: String, result: String, location: String)
-
 object Worldcup {
   /** Prints the winner, the runner up and the result of the given match.
     *

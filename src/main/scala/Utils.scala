@@ -3,6 +3,8 @@ import com.fasterxml.jackson.module.scala.DefaultScalaModule
 
 import scala.io.Source
 
+case class Match(year: Int, winner: String, against: String, result: String, location: String)
+
 object Utils {
   type WorldCupData = Array[Match]
   private val wcFile = "wc.json"
